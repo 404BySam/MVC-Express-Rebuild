@@ -15,5 +15,3 @@ router.patch("/api/articles/:id", ArticleCtrl.patch);
 router.delete("/api/articles/:id", ArticleCtrl.remove);
 
 module.exports = router;
-
-module.exports = router;

@@ -1,0 +1,10 @@
+# Node
+node_modules/
+
+.env
+# Env (tous les .env à tous les niveaux)
+**/.env
+
+.env.local
+# Env.local (tous les .env.local à tous les niveaux)
+**/.env.local
